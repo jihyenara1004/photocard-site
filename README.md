@@ -1,2 +1,3 @@
-# photocard-site
-photocard.kr 모바일 명함
+# photocard.kr
+
+브라이튼 여의도 모바일 명함. GitHub Pages에서 main 브랜치 루트 폴더를 배포합니다. 사용자 승인으로 이름·업무 연락처·명함 이미지를 포함합니다. 원본 백업과 홈페이지 매뉴얼은 별도 비공개 저장소에 있습니다.
